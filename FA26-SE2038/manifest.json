@@ -1,0 +1,12 @@
+{
+ "schema": 1,
+ "sem": "FA26-SE2038",
+ "updated": "2026-09-21T00:59:18+07:00",
+ "units": {
+  "w6": {
+   "p": "dfd829278da7a06746ab72f3aa0a67ab8215cb4a4f3a4c01859ab193ec0bfa62",
+   "url": "units/w6.dfd82927.json",
+   "frozen": false
+  }
+ }
+}
