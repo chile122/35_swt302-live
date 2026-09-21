@@ -1,11 +1,56 @@
 {
  "schema": 1,
  "sem": "FA26-SE2038",
- "updated": "2026-09-21T00:59:18+07:00",
+ "updated": "2026-09-21T08:38:37+07:00",
  "units": {
+  "w1": {
+   "p": "78579010ca1174076edcf03dbef68e0ff9a4c1b7b05698a9250e4abd740d61c7",
+   "url": "units/w1.78579010.json",
+   "frozen": false
+  },
+  "w2": {
+   "p": "e7268fb4aa398d593f5cd3f73a5c277a7484729ced3561bda92a2365d7e81909",
+   "url": "units/w2.e7268fb4.json",
+   "frozen": false
+  },
+  "w3": {
+   "p": "2bbdb013018acb5f701db7cef7b1696c9d091f331a7f80e5046a3ed469786e83",
+   "url": "units/w3.2bbdb013.json",
+   "frozen": false
+  },
+  "w4": {
+   "p": "3b8b7f44d50100b9721951f1076342916ae67da603a214084b6007b35372620d",
+   "url": "units/w4.3b8b7f44.json",
+   "frozen": false
+  },
+  "w5": {
+   "p": "c96d1ae1a6ad6efb73c0cde520736371cfa00ec0bfcc9e3c3f6cdac8e5b5dc23",
+   "url": "units/w5.c96d1ae1.json",
+   "frozen": false
+  },
   "w6": {
-   "p": "dfd829278da7a06746ab72f3aa0a67ab8215cb4a4f3a4c01859ab193ec0bfa62",
-   "url": "units/w6.dfd82927.json",
+   "p": "3b58c7f6ac4927828e50e60f9bde7879ab1d85223fd93053310a5c0bbe6a55b4",
+   "url": "units/w6.3b58c7f6.json",
+   "frozen": false
+  },
+  "w7": {
+   "p": "c1037ac7b3d4e749f19338360236f23a357dfa88632d5122ea113543b1ce48f3",
+   "url": "units/w7.c1037ac7.json",
+   "frozen": false
+  },
+  "w8": {
+   "p": "04488c30d92707f0eedf507fd0e0c10f3b282708fed448a2c9bacf66036e8401",
+   "url": "units/w8.04488c30.json",
+   "frozen": false
+  },
+  "w9": {
+   "p": "06abb80e1a560639c3d399be3637b9e394c5cce96067053023a80716cfaa3d73",
+   "url": "units/w9.06abb80e.json",
+   "frozen": false
+  },
+  "w10": {
+   "p": "8c742099b2916f54fff413fed72856e4c74bb1ba20fe9c0b124af4d561d3fdb2",
+   "url": "units/w10.8c742099.json",
    "frozen": false
   }
  }
